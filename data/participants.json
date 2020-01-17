@@ -1135,6 +1135,19 @@
 		   "website": "",
 		   "twitter" : "https://twitter.com/mivishvajeet",
 		   "referral" : ""
+		},
+		
+		{
+		    "name" : "Anip",
+		   "imageurl" : "",
+		   "about" : "",
+		   "college" : "IIIT ALLAHABAD",
+		   "facebook" : "",
+		   "github" : "https://github.com/infinity-star",
+		   "website": "",
+		   "twitter" : "",
+		   "referral" : ""
 		}
+		
 	]
 }
